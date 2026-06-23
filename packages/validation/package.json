@@ -2,5 +2,8 @@
   "name": "@mastr/validation",
   "private": true,
   "version": "0.1.0",
-  "main": "./src/index.ts"
+  "main": "./src/index.ts",
+  "dependencies": {
+    "zod": "^4.4.3"
+  }
 }
